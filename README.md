@@ -1,6 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I'm Alessio Romano, a cybersecurity enthusiast, currently performing the Master's degree in Data Science at Università degli studi di Salerno.<br/>
+I'm Alessio Romano, a cybersecurity enthusiast, currently performing the Master's degree in Cybersecurity at Università degli studi di Salerno.<br/>
 Find me on:<br/>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alessio-romano/)
 [![Website](https://img.shields.io/badge/alessio_romano.com-4F0599?style=for-the-badge&logo={ICON}&logoColor=white)](https://www.alessio-romano.com)
