@@ -8,5 +8,3 @@ Find me on:<br/>
 Here are some stats about me:<br/><br/>
 ![Alessio's GitHub stats](https://github-readme-stats.vercel.app/api?username=alessio-romano&show_icons=true&theme=dark)&nbsp;&nbsp;&nbsp;&nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alessio-romano&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)<br/>
-
-![Visits](https://komarev.com/ghpvc/?username=alessio-romano&color=blue)
