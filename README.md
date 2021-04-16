@@ -8,3 +8,7 @@ Find me on:<br/>
 Here are some stats about me:<br/><br/>
 ![Alessio's GitHub stats](https://github-readme-stats.vercel.app/api?username=alessio-romano&show_icons=true&theme=dark)&nbsp;&nbsp;&nbsp;&nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alessio-romano&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)<br/>
+
+I'm also training over [Hack The Box](https://www.hackthebox.eu/). <br/>Here's my profile: 
+<br/><br/>
+[ ![sfoffo](https://www.hackthebox.eu/badge/image/347632)](https://www.hackthebox.eu/home/users/profile/347632)
