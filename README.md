@@ -5,7 +5,6 @@
 
 Find me on:<br/>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alessio-romano/)
-[![Website](https://img.shields.io/badge/alessio_romano.com-4F0599?style=for-the-badge&logo={ICON}&logoColor=white)](https://www.alessio-romano.com)
 
 I'm also training over [Hack The Box](https://www.hackthebox.eu/). <br/>Here's my profile: 
 <br/><br/>
