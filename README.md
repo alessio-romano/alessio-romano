@@ -1,6 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-**`Whoami`**: Penetration Tester, CyberSecurity Master Degree, eJPT Certified, (almost) HTB CPTS Certified
+**`Whoami`**: Penetration Tester, eJPT, eWPT, OSCP todo, CPTS todo
 
 
 Find me on:<br/>
