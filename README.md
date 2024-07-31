@@ -8,4 +8,5 @@ Find me on:<br/>
 
 I'm also training over [Hack The Box](https://www.hackthebox.eu/). <br/>Here's my profile: 
 <br/><br/>
-[ ![sfoffo](https://www.hackthebox.eu/badge/image/347632)](https://www.hackthebox.eu/home/users/profile/347632)
+[ ![sfoffo](https://www.hackthebox.eu/badge/image/347632)](https://app.hackthebox.com/profile/347632)
+
