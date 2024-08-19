@@ -1,6 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-**`Whoami`**: Penetration Tester, eJPT, eWPTv2, CPTS, OSCP todo
+**`Whoami`**: Penetration Tester | OSCP | CPTS | eWPTv2 | eJPT
 
 My current CVEs:
 - [CVE-2024-41819](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-41819)
