@@ -3,8 +3,10 @@
 **`Whoami`**: Penetration Tester | OSCP | CPTS | eWPTv2 | eJPT
 
 My current CVEs:
+- [CVE-2024-42845](https://nvd.nist.gov/vuln/detail/CVE-2024-42845)
 - [CVE-2024-41819](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-41819)
 - [CVE-2024-41943](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-41943)
+  
 
 Find me on:<br/>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alessio-romano/)
