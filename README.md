@@ -6,6 +6,7 @@ My current CVEs:
 - [CVE-2024-42845](https://nvd.nist.gov/vuln/detail/CVE-2024-42845)
 - [CVE-2024-41819](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-41819)
 - [CVE-2024-41943](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-41943)
+- [CVE-2024-50344](https://nvd.nist.gov/vuln/detail/CVE-2024-50344)
   
 
 Find me on:<br/>
